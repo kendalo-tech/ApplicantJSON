@@ -14,20 +14,20 @@ However for the spicyTolerance value, I divided by 100 to value that one less
 
 #Sample Output
   
-{
-    "scoredApplicants": [
-        {
-            "name": "John",
-            "score": 0.56
-        },
-        {
-            "name": "Jane",
-            "score": 0.72
-        },
-        {
-            "name": "Joe",
-            "score": 0.25
-        }
-    ]
-}
+{  
+    "scoredApplicants": [  
+        {  
+            "name": "John",  
+            "score": 0.56  
+        },  
+        {  
+            "name": "Jane",  
+            "score": 0.72  
+        },  
+        {  
+            "name": "Joe",  
+            "score": 0.25  
+        }  
+    ]  
+}  
 
