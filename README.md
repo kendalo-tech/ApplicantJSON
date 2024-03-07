@@ -12,7 +12,7 @@ For scoring, the code iterates over the attributes and divides the value by 20, 
 
 However for the spicyTolerance value, I divided by 100 to value that one less  
 
-#Sample Output
+# Sample Output
 ```
 {  
     "scoredApplicants": [  
